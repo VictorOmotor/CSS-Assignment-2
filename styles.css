@@ -1,0 +1,31 @@
+* {
+    font-weight: bold;
+    font-size: 20px;
+}
+div {
+    color: green;
+    border: 3px dashed green;
+    margin: 50px 60% 50px 100px;
+    background-color: rgb(138, 233, 142, 0.3) ;
+}
+h3 {
+    text-align: center;
+    border: 2px solid green;
+    margin: 10px 160px;
+    border-radius: 25px;
+}
+.list {
+    list-style-type: square;
+    color: red;
+    border: 2px solid gray;
+    justify-content: center;
+    margin: 20px 100px;
+}
+#dishonesty {
+    color: blue;
+    list-style-type: circle;
+}
+#laziness {
+    color: green;
+    list-style-position: inside;
+}
